@@ -1,0 +1,7 @@
+C:\Users\prajw\source\repos\Data Structures in C#\Data Structures in C#\bin\Debug\Data Structures in C#.exe.config
+C:\Users\prajw\source\repos\Data Structures in C#\Data Structures in C#\bin\Debug\Data Structures in C#.exe
+C:\Users\prajw\source\repos\Data Structures in C#\Data Structures in C#\bin\Debug\Data Structures in C#.pdb
+C:\Users\prajw\source\repos\Data Structures in C#\Data Structures in C#\obj\Debug\Data Structures in C#.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\Data Structures in C#\Data Structures in C#\obj\Debug\Data Structures in C#.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\Data Structures in C#\Data Structures in C#\obj\Debug\Data Structures in C#.exe
+C:\Users\prajw\source\repos\Data Structures in C#\Data Structures in C#\obj\Debug\Data Structures in C#.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prajw\\source\\repos\\C sharp OOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D171B427-6A46-4695-90BA-232A26C68482}|C sharp OOPS\\C sharp OOPS.csproj|c:\\users\\prajw\\source\\repos\\c sharp oops\\c sharp oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D171B427-6A46-4695-90BA-232A26C68482}|C sharp OOPS\\C sharp OOPS.csproj|solutionrelative:c sharp oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1382,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C sharp OOPS\\C sharp OOPS\\Program.cs",
+              "RelativeDocumentMoniker": "C sharp OOPS\\Program.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C sharp OOPS\\C sharp OOPS\\Program.cs",
+              "RelativeToolTip": "C sharp OOPS\\Program.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAiwCEBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:04:36.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
